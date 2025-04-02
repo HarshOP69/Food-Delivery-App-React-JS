@@ -1,5 +1,3 @@
-Sure! Here's an improved version of your README with a more polished and structured layout:
-
 ---
 
 # Food Delivery App - Front-End (React JS)
