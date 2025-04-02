@@ -15,6 +15,11 @@
   text-align: justify;
 }
 
+.i-explore{
+  display:flex,
+  justify-content: space-between;
+}
+
 .explore-menu-list {
   display: flex;
   justify-content: space-between;
